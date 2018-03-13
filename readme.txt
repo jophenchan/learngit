@@ -5,4 +5,5 @@ Git tracks changes of files.
 Git add something by the author.
 Git test the SSH verity.
 Creating a new branch is quick and simple.
+Try no-ff
 
